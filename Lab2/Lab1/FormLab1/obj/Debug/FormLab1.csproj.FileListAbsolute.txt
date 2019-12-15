@@ -1,0 +1,94 @@
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\FormLab1.exe.config
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\FormLab1.exe
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\FormLab1.pdb
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\Lab1.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\Newtonsoft.Json.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Optimization.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Mvc.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Http.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Net.Http.Formatting.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Http.WebHost.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\WebGrease.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.WebPages.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Razor.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\Antlr3.Runtime.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\Lab1.pdb
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\Lab1.dll.config
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\Newtonsoft.Json.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Optimization.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Mvc.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Http.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Net.Http.Formatting.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Http.WebHost.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.WebPages.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.Razor.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\Antlr3.Runtime.pdb
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\ru\System.Web.Http.resources.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\obj\Debug\FormLab1.csprojAssemblyReference.cache
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\obj\Debug\FormLab1.Form1.resources
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\obj\Debug\FormLab1.Properties.Resources.resources
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\obj\Debug\FormLab1.csproj.GenerateResource.cache
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\obj\Debug\FormLab1.csproj.CoreCompileInputs.cache
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\obj\Debug\FormLab1.csproj.CopyComplete
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\obj\Debug\FormLab1.exe
+D:\Для учёбы\4 курс\ИТиРОТ\Lab1\FormLab1\obj\Debug\FormLab1.pdb
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\FormLab1.exe.config
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\FormLab1.exe
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\FormLab1.pdb
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\Lab1.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\Newtonsoft.Json.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Optimization.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Mvc.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Http.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Net.Http.Formatting.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Http.WebHost.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\WebGrease.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.WebPages.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Razor.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\Antlr3.Runtime.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\Lab1.pdb
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\Lab1.dll.config
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\Newtonsoft.Json.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Optimization.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Mvc.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Http.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Net.Http.Formatting.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Http.WebHost.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.WebPages.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.Razor.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\Antlr3.Runtime.pdb
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\ru\System.Web.Http.resources.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Для учёбы\Lab1\FormLab1\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Для учёбы\Lab1\FormLab1\obj\Debug\FormLab1.csprojAssemblyReference.cache
+D:\Для учёбы\Lab1\FormLab1\obj\Debug\FormLab1.Form1.resources
+D:\Для учёбы\Lab1\FormLab1\obj\Debug\FormLab1.Properties.Resources.resources
+D:\Для учёбы\Lab1\FormLab1\obj\Debug\FormLab1.csproj.GenerateResource.cache
+D:\Для учёбы\Lab1\FormLab1\obj\Debug\FormLab1.csproj.CoreCompileInputs.cache
+D:\Для учёбы\Lab1\FormLab1\obj\Debug\FormLab1.csproj.CopyComplete
+D:\Для учёбы\Lab1\FormLab1\obj\Debug\FormLab1.exe
+D:\Для учёбы\Lab1\FormLab1\obj\Debug\FormLab1.pdb
